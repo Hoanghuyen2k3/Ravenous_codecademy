@@ -1,3 +1,6 @@
+#About 
+Ravenous is a praticing project in the React Course of Codecademy.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
